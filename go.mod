@@ -5,14 +5,14 @@ go 1.25.0
 require (
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.16.0
-	go.mongodb.org/mongo-driver v1.11.2
+	go.mongodb.org/mongo-driver v1.17.7
 	golang.org/x/exp v0.0.0-20220325121720-054d8573a5d8
 	gotest.tools v2.2.0+incompatible
 )
 
 require (
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/google/go-cmp v0.5.5 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	golang.org/x/net v0.55.0 // indirect
